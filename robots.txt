@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://feruhis-portofolio.netlify.app/sitemap.xml
